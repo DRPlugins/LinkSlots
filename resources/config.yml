@@ -2,7 +2,7 @@
 version: 1
 
 #Write interval to refresh the query (in minutes)
-interval: 3
+interval: 1
 
 #Do you want to add the server this plugin is running on slots?
 add_self_slots: true
@@ -14,5 +14,5 @@ add_self_slots: true
 #server.myip.com:19132, plugin won't crash, but it won't change slots
 
 servers:
- "play.example.com": 19132
- "my.server.net": 19754
+ "play.drpe.me": 19133
+ "play.drpe.me": 19132
